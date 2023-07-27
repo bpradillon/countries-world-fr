@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run test:nocoverage",
     "test:nocoverage": "jest --config=jest.config.js",
-    "start": "node js/Pays.js"
+    "start": "node src/Pays.js"
   },
   "type": "module",
   "repository": {
