@@ -1,0 +1,37 @@
+{
+  "name": "countries-world-fr",
+  "version": "1.0.0",
+  "description": "World countries with code, currency, name, and preposition in french",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:nocoverage",
+    "test:nocoverage": "jest --config=jest.config.js",
+    "start": "node js/Pays.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpradillon/countries-world-fr.git"
+  },
+  "keywords": [
+    "world",
+    "country",
+    "countries",
+    "regions",
+    "french",
+    "code",
+    "name",
+    "article",
+    "preposition",
+    "currency"
+  ],
+  "author": "Bryan Pradillon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpradillon/countries-world-fr/issues"
+  },
+  "homepage": "https://github.com/bpradillon/countries-world-fr#readme",
+  "dependencies": {
+    "ramda": "^0.29.0"
+  }
+}
