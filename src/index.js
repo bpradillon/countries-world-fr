@@ -1,1 +1,0 @@
-export { default as Pays } from './Pays.js';

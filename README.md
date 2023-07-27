@@ -12,7 +12,7 @@ This build an enumeration for all countries with the following details :
 ## Usage
 
 ```javascript
-const { Pays } = require('countries-world-fr');
+import { Pays } from 'countries-world-fr';
 
 const country = Pays.getByCode('US');
 // or
