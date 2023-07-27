@@ -9,24 +9,41 @@ This build an enumeration for all countries with the following details :
 * article to use with name
 * preposition to use with name
 
-## Usage
+Installation
+------------
+
+To use with node:
+
+```bash
+$ npm install github:bpradillon/countries-world-fr
+```
+
+Usage
+-----
 
 ```javascript
 import { Pays } from 'countries-world-fr';
-
-const country = Pays.getByCode('US');
-// or
-const country = Pays.getByCurrency('USD');
-// or
-const country = Pays.ETATS_UNIS;
-// country is now {
-//    "code": "US",
-//    "name": "États-Unis",
-//    "currency": "USD",
-//    "article": "les ",
-//    "preposition": "aux "
-//  }
 ```
+* Find country details by country code
+```javascript
+const country = Pays.getByCode('US');
+```
+* Find a country details by currency code (currency's issuing country is returned if several area use
+this currency)
+```javascript
+const country = Pays.getByCurrency('USD');
+```
+* Get using enumeration
+```javascript
+const country = Pays.ETATS_UNIS;
+```
+> Country is now {
+    "code": "US",
+    "name": "États-Unis",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+> }
 
 ## French article rules
 
@@ -92,13 +109,8 @@ Other exceptions for island, ```à l'île...``` will be used.
 > * Je suis allé à Chypre et à Saint-Martin
 > * Je souhaite partir à l'île de Man
 
-Exported functions :
-
-* getByCurrency : to find a country details by currency code (currency's issuing country is returned if several area use
-  this currency)
-* getByCode : to find country details by country code
-
 ## Expected result
+
 Also exported in .csv and .json file, available in this project
 
 | Code |               Name in French               |  Article   | Preposition | Curency |
