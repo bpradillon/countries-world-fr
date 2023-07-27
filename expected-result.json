@@ -1,0 +1,1773 @@
+{
+  "AFGHANISTAN": {
+    "code": "AF",
+    "name": "Afghanistan",
+    "currency": "AFN",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "AFRIQUE_DU_SUD": {
+    "code": "ZA",
+    "name": "Afrique du Sud",
+    "currency": "ZAR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ALAND_ILES": {
+    "code": "AX",
+    "name": "Îles Åland",
+    "currency": "EUR",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "ALBANIE": {
+    "code": "AL",
+    "name": "Albanie",
+    "currency": "ALL",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ALGERIE": {
+    "code": "DZ",
+    "name": "Algérie",
+    "currency": "DZD",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ALLEMAGNE": {
+    "code": "DE",
+    "name": "Allemagne",
+    "currency": "EUR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ANDORRE": {
+    "code": "AD",
+    "name": "Andorre",
+    "currency": "EUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "ANGOLA": {
+    "code": "AO",
+    "name": "Angola",
+    "currency": "AOA",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ANGUILLA": {
+    "code": "AI",
+    "name": "Anguilla",
+    "currency": "XCD",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ANTARCTIQUE": {
+    "code": "AQ",
+    "name": "Antarctique",
+    "currency": "USD",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ANTIGUA_ET_BARBUDA": {
+    "code": "AG",
+    "name": "Antigua-et-Barbuda",
+    "currency": "XCD",
+    "article": "",
+    "preposition": "à "
+  },
+  "ANTILLES_NEERLANDAISES": {
+    "code": "AN",
+    "name": "Antilles néerlandaises",
+    "currency": "ANG",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "ARABIE_SAOUDITE": {
+    "code": "SA",
+    "name": "Arabie saoudite",
+    "currency": "SAR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ARGENTINE": {
+    "code": "AR",
+    "name": "Argentine",
+    "currency": "ARS",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ARMENIE": {
+    "code": "AM",
+    "name": "Arménie",
+    "currency": "AMD",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ARUBA": {
+    "code": "AW",
+    "name": "Aruba",
+    "currency": "AWG",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "AUSTRALIE": {
+    "code": "AU",
+    "name": "Australie",
+    "currency": "AUD",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "AUTRICHE": {
+    "code": "AT",
+    "name": "Autriche",
+    "currency": "EUR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "AZERBAIDJAN": {
+    "code": "AZ",
+    "name": "Azerbaïdjan",
+    "currency": "AZN",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "BAHAMAS": {
+    "code": "BS",
+    "name": "Bahamas",
+    "currency": "BSD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "BAHREIN": {
+    "code": "BH",
+    "name": "Bahreïn",
+    "currency": "BHD",
+    "article": "",
+    "preposition": "à "
+  },
+  "BANGLADESH": {
+    "code": "BD",
+    "name": "Bangladesh",
+    "currency": "BDT",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "BARBADE": {
+    "code": "BB",
+    "name": "Barbade",
+    "currency": "BBD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "BELARUS": {
+    "code": "BY",
+    "name": "Biélorussie",
+    "currency": "BZD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "BELGIQUE": {
+    "code": "BE",
+    "name": "Belgique",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "BELIZE": {
+    "code": "BZ",
+    "name": "Belize",
+    "currency": "BZD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "BENIN": {
+    "code": "BJ",
+    "name": "Bénin",
+    "currency": "XOF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "BERMUDES": {
+    "code": "BM",
+    "name": "Bermudes",
+    "currency": "BMD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "BHOUTAN": {
+    "code": "BT",
+    "name": "Bhoutan",
+    "currency": "BTN",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "BOLIVIE": {
+    "code": "BO",
+    "name": "Bolivie",
+    "currency": "BOB",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "BONAIRE": {
+    "code": "BQ",
+    "name": "Pays-Bas caribéens",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "BOSNIE_HERZEGOVINE": {
+    "code": "BA",
+    "name": "Bosnie-Herzégovine",
+    "currency": "BAM",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "BOTSWANA": {
+    "code": "BW",
+    "name": "Botswana",
+    "currency": "BWP",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "BOUVET_ILE": {
+    "code": "BV",
+    "name": "Île Bouvet",
+    "currency": "NOK",
+    "article": "l'",
+    "preposition": "à l'"
+  },
+  "BRESIL": {
+    "code": "BR",
+    "name": "Brésil",
+    "currency": "BRL",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "BRUNEI_DARUSSALAM": {
+    "code": "BN",
+    "name": "Brunei",
+    "currency": "BND",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "BULGARIE": {
+    "code": "BG",
+    "name": "Bulgarie",
+    "currency": "BGN",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "BURKINA_FASO": {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "currency": "XOF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "BURUNDI": {
+    "code": "BI",
+    "name": "Burundi",
+    "currency": "BIF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "CAP_VERT": {
+    "code": "CV",
+    "name": "Cap-Vert",
+    "currency": "CVE",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "CAiMANS_ILES": {
+    "code": "KY",
+    "name": "Îles Caïmans",
+    "currency": "KYD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "CAMBODGE": {
+    "code": "KH",
+    "name": "Cambodge",
+    "currency": "KHR",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "CAMEROUN": {
+    "code": "CM",
+    "name": "Cameroun",
+    "currency": "XAF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "CANADA": {
+    "code": "CA",
+    "name": "Canada",
+    "currency": "CAD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "CHILI": {
+    "code": "CL",
+    "name": "Chili",
+    "currency": "CLP",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "CHINE": {
+    "code": "CN",
+    "name": "Chine",
+    "currency": "CNY",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "CHRISTMAS_ILE": {
+    "code": "CX",
+    "name": "Île Christmas",
+    "currency": "AUD",
+    "article": "l'",
+    "preposition": "à l'"
+  },
+  "CHYPRE": {
+    "code": "CY",
+    "name": "Chypre",
+    "currency": "EUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "COCOS": {
+    "code": "CC",
+    "name": "Îles Cocos",
+    "currency": "AUD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "COLOMBIE": {
+    "code": "CO",
+    "name": "Colombie",
+    "currency": "COP",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "COMORES": {
+    "code": "KM",
+    "name": "Comores",
+    "currency": "KMF",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "CONGO": {
+    "code": "CG",
+    "name": "Congo-Brazzaville",
+    "currency": "XAF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "REPUBLIQUE_DEMOCRATIQUE_DU_CONGO": {
+    "code": "CD",
+    "name": "Congo-Kinshasa",
+    "currency": "CDF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "COOK_ILES": {
+    "code": "CK",
+    "name": "Îles Cook",
+    "currency": "NZD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "COREE_DU_SUD": {
+    "code": "KR",
+    "name": "Corée du Sud",
+    "currency": "KRW",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "COREE_DU_NORD": {
+    "code": "KP",
+    "name": "Corée du Nord",
+    "currency": "KPW",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "COSTA_RICA": {
+    "code": "CR",
+    "name": "Costa Rica",
+    "currency": "CRC",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "COTE_D_IVOIRE": {
+    "code": "CI",
+    "name": "Côte d’Ivoire",
+    "currency": "XOF",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "CROATIE": {
+    "code": "HR",
+    "name": "Croatie",
+    "currency": "HRK",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "CUBA": {
+    "code": "CU",
+    "name": "Cuba",
+    "currency": "CUC",
+    "article": "",
+    "preposition": "à "
+  },
+  "CURACAO": {
+    "code": "CW",
+    "name": "Curaçao",
+    "currency": "ANG",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "DANEMARK": {
+    "code": "DK",
+    "name": "Danemark",
+    "currency": "DKK",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "DJIBOUTI": {
+    "code": "DJ",
+    "name": "Djibouti",
+    "currency": "DJF",
+    "article": "",
+    "preposition": "à "
+  },
+  "REPUBLIQUE_DOMINICAINE": {
+    "code": "DO",
+    "name": "République dominicaine",
+    "currency": "DOP",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "DOMINIQUE": {
+    "code": "DM",
+    "name": "Dominique",
+    "currency": "XCD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "EGYPTE": {
+    "code": "EG",
+    "name": "Égypte",
+    "currency": "EGP",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "EL_SALVADOR": {
+    "code": "SV",
+    "name": "Salvador",
+    "currency": "USD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "EMIRATS_ARABES_UNIS": {
+    "code": "AE",
+    "name": "Émirats arabes unis",
+    "currency": "AED",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "EQUATEUR": {
+    "code": "EC",
+    "name": "Équateur",
+    "currency": "USD",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ERYTHREE": {
+    "code": "ER",
+    "name": "Érythrée",
+    "currency": "ERN",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ESPAGNE": {
+    "code": "ES",
+    "name": "Espagne",
+    "currency": "EUR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ESTONIE": {
+    "code": "EE",
+    "name": "Estonie",
+    "currency": "EUR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ETATS_UNIS": {
+    "code": "US",
+    "name": "États-Unis",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "ETHIOPIE": {
+    "code": "ET",
+    "name": "Éthiopie",
+    "currency": "ETB",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "EUROPE": {
+    "code": "EU",
+    "name": "Union européenne",
+    "currency": "EUR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "FALKLAND_MALOUINES_ILES": {
+    "code": "FK",
+    "name": "Îles Malouines",
+    "currency": "FKP",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "FEROE_ILES": {
+    "code": "FO",
+    "name": "Îles Féroé",
+    "currency": "DKK",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "FIDJI": {
+    "code": "FJ",
+    "name": "Fidji",
+    "currency": "FJD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "FINLANDE": {
+    "code": "FI",
+    "name": "Finlande",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "FRANCE": {
+    "code": "FR",
+    "name": "France",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "GABON": {
+    "code": "GA",
+    "name": "Gabon",
+    "currency": "XAF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "GAMBIE": {
+    "code": "GM",
+    "name": "Gambie",
+    "currency": "GMD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "GEORGIE": {
+    "code": "GE",
+    "name": "Géorgie",
+    "currency": "GEL",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "GEORGIE_DU_SUD": {
+    "code": "GS",
+    "name": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+    "currency": "GBP",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "GHANA": {
+    "code": "GH",
+    "name": "Ghana",
+    "currency": "GHS",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "GIBRALTAR": {
+    "code": "GI",
+    "name": "Gibraltar",
+    "currency": "GIP",
+    "article": "",
+    "preposition": "à "
+  },
+  "GRECE": {
+    "code": "GR",
+    "name": "Grèce",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "GRENADE": {
+    "code": "GD",
+    "name": "Grenade",
+    "currency": "XCD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "GROENLAND": {
+    "code": "GL",
+    "name": "Groenland",
+    "currency": "DKK",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "GUADELOUPE": {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "GUAM": {
+    "code": "GU",
+    "name": "Guam",
+    "currency": "USD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "GUATEMALA": {
+    "code": "GT",
+    "name": "Guatemala",
+    "currency": "GTQ",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "GUERNESEY": {
+    "code": "GG",
+    "name": "Guernesey",
+    "currency": "GGP",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "GUINEE": {
+    "code": "GN",
+    "name": "Guinée",
+    "currency": "GNF",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "GUINEE_BISSAU": {
+    "code": "GW",
+    "name": "Guinée-Bissau",
+    "currency": "XOF",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "GUINEE_EQUATORIALE": {
+    "code": "GQ",
+    "name": "Guinée équatoriale",
+    "currency": "XAF",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "GUYANA": {
+    "code": "GY",
+    "name": "Guyana",
+    "currency": "GYD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "GUYANE_FRANCAISE": {
+    "code": "GF",
+    "name": "Guyane française",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "HAITI": {
+    "code": "HT",
+    "name": "Haïti",
+    "currency": "HTG",
+    "article": "",
+    "preposition": "à "
+  },
+  "HEARD_ILE_ET_MACDONALD_ILES": {
+    "code": "HM",
+    "name": "Îles Heard-et-MacDonald",
+    "currency": "AUD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "HONDURAS": {
+    "code": "HN",
+    "name": "Honduras",
+    "currency": "HNL",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "HONG_KONG": {
+    "code": "HK",
+    "name": "Hong Kong",
+    "currency": "HKD",
+    "article": "",
+    "preposition": "à "
+  },
+  "HONGRIE": {
+    "code": "HU",
+    "name": "Hongrie",
+    "currency": "HUF",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "ILE_DE_MAN": {
+    "code": "IM",
+    "name": "Île de Man",
+    "currency": "IMP",
+    "article": "l'",
+    "preposition": "à l'"
+  },
+  "ILES_MINEURES_ELOIGNEES_DES_ETATS_UNIS": {
+    "code": "UM",
+    "name": "Îles mineures éloignées des États-Unis",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "ILES_VIERGES_BRITANNIQUES": {
+    "code": "VG",
+    "name": "Îles Vierges britanniques",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "ILES_VIERGES_DES_ETATS_UNIS": {
+    "code": "VI",
+    "name": "Îles Vierges des États-Unis",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "TERRITOIRE_BRITANNIQUE_DE_L_OCEAN_INDIEN": {
+    "code": "IO",
+    "name": "Territoire britannique de l’océan Indien",
+    "currency": "GBP",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "INDE": {
+    "code": "IN",
+    "name": "Inde",
+    "currency": "INR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "INDONESIE": {
+    "code": "ID",
+    "name": "Indonésie",
+    "currency": "IDR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "IRAN": {
+    "code": "IR",
+    "name": "Iran",
+    "currency": "IRR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "IRAQ": {
+    "code": "IQ",
+    "name": "Irak",
+    "currency": "IQD",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "IRLANDE": {
+    "code": "IE",
+    "name": "Irlande",
+    "currency": "EUR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ISLANDE": {
+    "code": "IS",
+    "name": "Islande",
+    "currency": "ISK",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "ISRAEL": {
+    "code": "IL",
+    "name": "Israël",
+    "currency": "ILS",
+    "article": "",
+    "preposition": "à "
+  },
+  "ITALIE": {
+    "code": "IT",
+    "name": "Italie",
+    "currency": "EUR",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "JAMAIQUE": {
+    "code": "JM",
+    "name": "Jamaïque",
+    "currency": "JMD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "JAPON": {
+    "code": "JP",
+    "name": "Japon",
+    "currency": "JPY",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "JERSEY": {
+    "code": "JE",
+    "name": "Jersey",
+    "currency": "GBP",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "JORDANIE": {
+    "code": "JO",
+    "name": "Jordanie",
+    "currency": "JOD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "KAZAKHSTAN": {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "currency": "KZT",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "KENYA": {
+    "code": "KE",
+    "name": "Kenya",
+    "currency": "KES",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "KIRGHIZISTAN": {
+    "code": "KG",
+    "name": "Kirghizstan",
+    "currency": "KGS",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "KIRIBATI": {
+    "code": "KI",
+    "name": "Kiribati",
+    "currency": "AUD",
+    "article": "",
+    "preposition": "à "
+  },
+  "KOWEIT": {
+    "code": "KW",
+    "name": "Koweït",
+    "currency": "KWD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "LAOS": {
+    "code": "LA",
+    "name": "Laos",
+    "currency": "LAK",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "LESOTHO": {
+    "code": "LS",
+    "name": "Lesotho",
+    "currency": "LSL",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "LETTONIE": {
+    "code": "LV",
+    "name": "Lettonie",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "LIBAN": {
+    "code": "LB",
+    "name": "Liban",
+    "currency": "LBP",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "LIBERIA": {
+    "code": "LR",
+    "name": "Liberia",
+    "currency": "LRD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "LIBYE": {
+    "code": "LY",
+    "name": "Libye",
+    "currency": "LYD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "LIECHTENSTEIN": {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "currency": "EUR",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "LITUANIE": {
+    "code": "LT",
+    "name": "Lituanie",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "LUXEMBOURG": {
+    "code": "LU",
+    "name": "Luxembourg",
+    "currency": "EUR",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "MACAO": {
+    "code": "MO",
+    "name": "Macao",
+    "currency": "MOP",
+    "article": "",
+    "preposition": "à "
+  },
+  "MACEDOINE": {
+    "code": "MK",
+    "name": "Macédoine du Nord",
+    "currency": "MKD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "MADAGASCAR": {
+    "code": "MG",
+    "name": "Madagascar",
+    "currency": "MGA",
+    "article": "",
+    "preposition": "à "
+  },
+  "MALAISIE": {
+    "code": "MY",
+    "name": "Malaisie",
+    "currency": "MYR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "MALAWI": {
+    "code": "MW",
+    "name": "Malawi",
+    "currency": "MWK",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "MALDIVES": {
+    "code": "MV",
+    "name": "Maldives",
+    "currency": "MVR",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "MALI": {
+    "code": "ML",
+    "name": "Mali",
+    "currency": "XOF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "MALTE": {
+    "code": "MT",
+    "name": "Malte",
+    "currency": "EUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "MARIANNES_DU_NORD": {
+    "code": "MP",
+    "name": "Îles Mariannes du Nord",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "MAROC": {
+    "code": "MA",
+    "name": "Maroc",
+    "currency": "MAD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "MARSHALL_ILES": {
+    "code": "MH",
+    "name": "Îles Marshall",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "MARTINIQUE": {
+    "code": "MQ",
+    "name": "Martinique",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "MAURICE": {
+    "code": "MU",
+    "name": "Maurice",
+    "currency": "MUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "MAURITANIE": {
+    "code": "MR",
+    "name": "Mauritanie",
+    "currency": "MRO",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "MAYOTTE": {
+    "code": "YT",
+    "name": "Mayotte",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "MEXIQUE": {
+    "code": "MX",
+    "name": "Mexique",
+    "currency": "MXN",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "MICRONESIE": {
+    "code": "FM",
+    "name": "Micronésie",
+    "currency": "USD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "MOLDOVA": {
+    "code": "MD",
+    "name": "Moldavie",
+    "currency": "MDL",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "MONACO": {
+    "code": "MC",
+    "name": "Monaco",
+    "currency": "EUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "MONGOLIE": {
+    "code": "MN",
+    "name": "Mongolie",
+    "currency": "MNT",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "MONTENEGRO": {
+    "code": "ME",
+    "name": "Monténégro",
+    "currency": "EUR",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "MONTSERRAT": {
+    "code": "MS",
+    "name": "Montserrat",
+    "currency": "XCD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "MOZAMBIQUE": {
+    "code": "MZ",
+    "name": "Mozambique",
+    "currency": "MZN",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "MYANMAR": {
+    "code": "MM",
+    "name": "Myanmar (Birmanie)",
+    "currency": "MMK",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "NAMIBIE": {
+    "code": "NA",
+    "name": "Namibie",
+    "currency": "NAD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "NAURU": {
+    "code": "NR",
+    "name": "Nauru",
+    "currency": "AUD",
+    "article": "",
+    "preposition": "à "
+  },
+  "NEPAL": {
+    "code": "NP",
+    "name": "Népal",
+    "currency": "NPR",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "NICARAGUA": {
+    "code": "NI",
+    "name": "Nicaragua",
+    "currency": "NIO",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "NIGER": {
+    "code": "NE",
+    "name": "Niger",
+    "currency": "XOF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "NIGERIA": {
+    "code": "NG",
+    "name": "Nigeria",
+    "currency": "NGN",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "NIUE": {
+    "code": "NU",
+    "name": "Niue",
+    "currency": "NZD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "NORFOLK_ILE": {
+    "code": "NF",
+    "name": "Île Norfolk",
+    "currency": "AUD",
+    "article": "l'",
+    "preposition": "à l'"
+  },
+  "NORVEGE": {
+    "code": "NO",
+    "name": "Norvège",
+    "currency": "NOK",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "NOUVELLE_CALEDONIE": {
+    "code": "NC",
+    "name": "Nouvelle-Calédonie",
+    "currency": "XPF",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "NOUVELLE_ZELANDE": {
+    "code": "NZ",
+    "name": "Nouvelle-Zélande",
+    "currency": "NZD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "OMAN": {
+    "code": "OM",
+    "name": "Oman",
+    "currency": "OMR",
+    "article": "",
+    "preposition": "à "
+  },
+  "OUGANDA": {
+    "code": "UG",
+    "name": "Ouganda",
+    "currency": "UGX",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "OUZBEKISTAN": {
+    "code": "UZ",
+    "name": "Ouzbékistan",
+    "currency": "UZS",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "PAKISTAN": {
+    "code": "PK",
+    "name": "Pakistan",
+    "currency": "PKR",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "PALAOS": {
+    "code": "PW",
+    "name": "Palaos",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "PALESTINE": {
+    "code": "PS",
+    "name": "Territoires palestiniens",
+    "currency": "ILS",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "PANAMA": {
+    "code": "PA",
+    "name": "Panama",
+    "currency": "PAB",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "PAPOUASIE_NOUVELLE_GUINEE": {
+    "code": "PG",
+    "name": "Papouasie-Nouvelle-Guinée",
+    "currency": "PGK",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "PARAGUAY": {
+    "code": "PY",
+    "name": "Paraguay",
+    "currency": "PYG",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "PAYS_BAS": {
+    "code": "NL",
+    "name": "Pays-Bas",
+    "currency": "EUR",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "PAYS_INCONNU": {
+    "code": "XX",
+    "name": "Pays inconnu",
+    "currency": "XXX",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "REGION_INDETERMINEE": {
+    "code": "ZZ",
+    "name": "région indéterminée",
+    "currency": "ZZZ",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "PEROU": {
+    "code": "PE",
+    "name": "Pérou",
+    "currency": "PEN",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "PHILIPPINES": {
+    "code": "PH",
+    "name": "Philippines",
+    "currency": "PHP",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "PITCAIRN": {
+    "code": "PN",
+    "name": "Îles Pitcairn",
+    "currency": "NZD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "POLOGNE": {
+    "code": "PL",
+    "name": "Pologne",
+    "currency": "PLN",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "POLYNESIE_FRANCAISE": {
+    "code": "PF",
+    "name": "Polynésie française",
+    "currency": "XPF",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "PORTO_RICO": {
+    "code": "PR",
+    "name": "Porto Rico",
+    "currency": "USD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "PORTUGAL": {
+    "code": "PT",
+    "name": "Portugal",
+    "currency": "EUR",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "QATAR": {
+    "code": "QA",
+    "name": "Qatar",
+    "currency": "QAR",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "REPUBLIQUE_ARABE_SYRIENNE": {
+    "code": "SY",
+    "name": "Syrie",
+    "currency": "SYP",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "REPUBLIQUE_CENTRAFRICAINE": {
+    "code": "CF",
+    "name": "République centrafricaine",
+    "currency": "XAF",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "REUNION": {
+    "code": "RE",
+    "name": "La Réunion",
+    "currency": "EUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "ROUMANIE": {
+    "code": "RO",
+    "name": "Roumanie",
+    "currency": "RON",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "ROYAUME_UNI": {
+    "code": "GB",
+    "name": "Royaume-Uni",
+    "currency": "GBP",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "RUSSIE": {
+    "code": "RU",
+    "name": "Russie",
+    "currency": "RUB",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "RWANDA": {
+    "code": "RW",
+    "name": "Rwanda",
+    "currency": "RWF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "SAHARA_OCCIDENTAL": {
+    "code": "EH",
+    "name": "Sahara occidental",
+    "currency": "MAD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "SAINT_BARTHELEMY": {
+    "code": "BL",
+    "name": "Saint-Barthélemy",
+    "currency": "EUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "SAINT_KITTS_ET_NEVIS": {
+    "code": "KN",
+    "name": "Saint-Christophe-et-Niévès",
+    "currency": "XCD",
+    "article": "",
+    "preposition": "à "
+  },
+  "SAINT_MARIN": {
+    "code": "SM",
+    "name": "Saint-Marin",
+    "currency": "EUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "SAINT_MARTIN_FR": {
+    "code": "MF",
+    "name": "Saint-Martin",
+    "currency": "EUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "SAINT_MARTIN_NL": {
+    "code": "SX",
+    "name": "Saint-Martin (partie néerlandaise)",
+    "currency": "EUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "SAINT_PIERRE_ET_MIQUELON": {
+    "code": "PM",
+    "name": "Saint-Pierre-et-Miquelon",
+    "currency": "EUR",
+    "article": "",
+    "preposition": "à "
+  },
+  "SAINT_VINCENT_ET_LES_GRENADINES": {
+    "code": "VC",
+    "name": "Saint-Vincent-et-les Grenadines",
+    "currency": "XCD",
+    "article": "",
+    "preposition": "à "
+  },
+  "SAINTE_HELENE": {
+    "code": "SH",
+    "name": "Sainte-Hélène",
+    "currency": "SHP",
+    "article": "",
+    "preposition": "à "
+  },
+  "SAINTE_LUCIE": {
+    "code": "LC",
+    "name": "Sainte-Lucie",
+    "currency": "XCD",
+    "article": "",
+    "preposition": "à "
+  },
+  "SALOMON_ILES": {
+    "code": "SB",
+    "name": "Îles Salomon",
+    "currency": "SBD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "SAMOA": {
+    "code": "WS",
+    "name": "Samoa",
+    "currency": "WST",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "SAMOA_AMERICAINES": {
+    "code": "AS",
+    "name": "Samoa américaines",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "SAO_TOME_ET_PRINCIPE": {
+    "code": "ST",
+    "name": "Sao Tomé-et-Principe",
+    "currency": "STD",
+    "article": "",
+    "preposition": "à "
+  },
+  "SENEGAL": {
+    "code": "SN",
+    "name": "Sénégal",
+    "currency": "XOF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "SERBIE": {
+    "code": "RS",
+    "name": "Serbie",
+    "currency": "RSD",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "SEYCHELLES": {
+    "code": "SC",
+    "name": "Seychelles",
+    "currency": "SCR",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "SIERRA_LEONE": {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "currency": "SLL",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "SINGAPOUR": {
+    "code": "SG",
+    "name": "Singapour",
+    "currency": "SGD",
+    "article": "",
+    "preposition": "à "
+  },
+  "SLOVAQUIE": {
+    "code": "SK",
+    "name": "Slovaquie",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "SLOVENIE": {
+    "code": "SI",
+    "name": "Slovénie",
+    "currency": "EUR",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "SOMALIE": {
+    "code": "SO",
+    "name": "Somalie",
+    "currency": "SOS",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "SOUDAN": {
+    "code": "SD",
+    "name": "Soudan",
+    "currency": "SDG",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "SOUDAN_DU_SUD": {
+    "code": "SS",
+    "name": "Soudan du Sud",
+    "currency": "SSP",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "SRI_LANKA": {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "currency": "LKR",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "SUEDE": {
+    "code": "SE",
+    "name": "Suède",
+    "currency": "SEK",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "SUISSE": {
+    "code": "CH",
+    "name": "Suisse",
+    "currency": "CHF",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "SURINAME": {
+    "code": "SR",
+    "name": "Suriname",
+    "currency": "SRD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "SVALBARD_ET_ILE_JAN_MAYEN": {
+    "code": "SJ",
+    "name": "Svalbard et Jan Mayen",
+    "currency": "NOK",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "SWAZILAND": {
+    "code": "SZ",
+    "name": "Eswatini",
+    "currency": "SZL",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "TADJIKISTAN": {
+    "code": "TJ",
+    "name": "Tadjikistan",
+    "currency": "TJS",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "TAIWAN": {
+    "code": "TW",
+    "name": "Taïwan",
+    "currency": "TWD",
+    "article": "",
+    "preposition": "à "
+  },
+  "TANZANIE": {
+    "code": "TZ",
+    "name": "Tanzanie",
+    "currency": "TZS",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "TCHAD": {
+    "code": "TD",
+    "name": "Tchad",
+    "currency": "XAF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "TCHEQUE_REPUBLIQUE": {
+    "code": "CZ",
+    "name": "Tchéquie",
+    "currency": "CZK",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "TERRES_AUSTRALES_FRANCAISES": {
+    "code": "TF",
+    "name": "Terres australes françaises",
+    "currency": "EUR",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "THAILANDE": {
+    "code": "TH",
+    "name": "Thaïlande",
+    "currency": "THB",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "TIMOR_LESTE": {
+    "code": "TL",
+    "name": "Timor oriental",
+    "currency": "USD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "TOGO": {
+    "code": "TG",
+    "name": "Togo",
+    "currency": "XOF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "TOKELAU": {
+    "code": "TK",
+    "name": "Tokelau",
+    "currency": "NZD",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "TONGA": {
+    "code": "TO",
+    "name": "Tonga",
+    "currency": "TOP",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "TRINITE_ET_TOBAGO": {
+    "code": "TT",
+    "name": "Trinité-et-Tobago",
+    "currency": "TTD",
+    "article": "",
+    "preposition": "à "
+  },
+  "TUNISIE": {
+    "code": "TN",
+    "name": "Tunisie",
+    "currency": "TND",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "TURKMENISTAN": {
+    "code": "TM",
+    "name": "Turkménistan",
+    "currency": "TMT",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "TURKS_ET_CAICOS": {
+    "code": "TC",
+    "name": "Îles Turques-et-Caïques",
+    "currency": "USD",
+    "article": "les ",
+    "preposition": "aux "
+  },
+  "TURQUIE": {
+    "code": "TR",
+    "name": "Turquie",
+    "currency": "TRY",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "TUVALU": {
+    "code": "TV",
+    "name": "Tuvalu",
+    "currency": "AUD",
+    "article": "",
+    "preposition": "à "
+  },
+  "UKRAINE": {
+    "code": "UA",
+    "name": "Ukraine",
+    "currency": "UAH",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "URUGUAY": {
+    "code": "UY",
+    "name": "Uruguay",
+    "currency": "UYU",
+    "article": "l'",
+    "preposition": "en "
+  },
+  "VANUATU": {
+    "code": "VU",
+    "name": "Vanuatu",
+    "currency": "VUV",
+    "article": "",
+    "preposition": "à "
+  },
+  "VATICAN": {
+    "code": "VA",
+    "name": "Vatican",
+    "currency": "EUR",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "VENEZUELA": {
+    "code": "VE",
+    "name": "Venezuela",
+    "currency": "VEF",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "VIET_NAM": {
+    "code": "VN",
+    "name": "Viêt Nam",
+    "currency": "VND",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "WALLIS_ET_FUTUNA": {
+    "code": "WF",
+    "name": "Wallis-et-Futuna",
+    "currency": "XPF",
+    "article": "",
+    "preposition": "à "
+  },
+  "YEMEN": {
+    "code": "YE",
+    "name": "Yémen",
+    "currency": "YER",
+    "article": "le ",
+    "preposition": "au "
+  },
+  "ZAMBIE": {
+    "code": "ZM",
+    "name": "Zambie",
+    "currency": "ZMW",
+    "article": "la ",
+    "preposition": "en "
+  },
+  "ZIMBABWE": {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "currency": "ZWL",
+    "article": "le ",
+    "preposition": "au "
+  }
+}

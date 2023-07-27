@@ -1,0 +1,254 @@
+code;article;preposition;name;currency
+AF;l';en ;Afghanistan;AFN
+ZA;l';en ;Afrique du Sud;ZAR
+AX;les ;aux ;Îles Åland;EUR
+AL;l';en ;Albanie;ALL
+DZ;l';en ;Algérie;DZD
+DE;l';en ;Allemagne;EUR
+AD;;à ;Andorre;EUR
+AO;l';en ;Angola;AOA
+AI;l';en ;Anguilla;XCD
+AQ;l';en ;Antarctique;USD
+AG;;à ;Antigua-et-Barbuda;XCD
+AN;les ;aux ;Antilles néerlandaises;ANG
+SA;l';en ;Arabie saoudite;SAR
+AR;l';en ;Argentine;ARS
+AM;l';en ;Arménie;AMD
+AW;l';en ;Aruba;AWG
+AU;l';en ;Australie;AUD
+AT;l';en ;Autriche;EUR
+AZ;l';en ;Azerbaïdjan;AZN
+BS;les ;aux ;Bahamas;BSD
+BH;;à ;Bahreïn;BHD
+BD;le ;au ;Bangladesh;BDT
+BB;la ;en ;Barbade;BBD
+BY;la ;en ;Biélorussie;BZD
+BE;la ;en ;Belgique;EUR
+BZ;le ;au ;Belize;BZD
+BJ;le ;au ;Bénin;XOF
+BM;les ;aux ;Bermudes;BMD
+BT;le ;au ;Bhoutan;BTN
+BO;la ;en ;Bolivie;BOB
+BQ;les ;aux ;Pays-Bas caribéens;USD
+BA;la ;en ;Bosnie-Herzégovine;BAM
+BW;le ;au ;Botswana;BWP
+BV;l';à l';Île Bouvet;NOK
+BR;le ;au ;Brésil;BRL
+BN;le ;au ;Brunei;BND
+BG;la ;en ;Bulgarie;BGN
+BF;le ;au ;Burkina Faso;XOF
+BI;le ;au ;Burundi;BIF
+CV;le ;au ;Cap-Vert;CVE
+KY;les ;aux ;Îles Caïmans;KYD
+KH;le ;au ;Cambodge;KHR
+CM;le ;au ;Cameroun;XAF
+CA;le ;au ;Canada;CAD
+CL;le ;au ;Chili;CLP
+CN;la ;en ;Chine;CNY
+CX;l';à l';Île Christmas;AUD
+CY;;à ;Chypre;EUR
+CC;les ;aux ;Îles Cocos;AUD
+CO;la ;en ;Colombie;COP
+KM;les ;aux ;Comores;KMF
+CG;le ;au ;Congo-Brazzaville;XAF
+CD;le ;au ;Congo-Kinshasa;CDF
+CK;les ;aux ;Îles Cook;NZD
+KR;la ;en ;Corée du Sud;KRW
+KP;la ;en ;Corée du Nord;KPW
+CR;le ;au ;Costa Rica;CRC
+CI;la ;en ;Côte d’Ivoire;XOF
+HR;la ;en ;Croatie;HRK
+CU;;à ;Cuba;CUC
+CW;le ;au ;Curaçao;ANG
+DK;le ;au ;Danemark;DKK
+DJ;;à ;Djibouti;DJF
+DO;la ;en ;République dominicaine;DOP
+DM;la ;en ;Dominique;XCD
+EG;l';en ;Égypte;EGP
+SV;le ;au ;Salvador;USD
+AE;les ;aux ;Émirats arabes unis;AED
+EC;l';en ;Équateur;USD
+ER;l';en ;Érythrée;ERN
+ES;l';en ;Espagne;EUR
+EE;l';en ;Estonie;EUR
+US;les ;aux ;États-Unis;USD
+ET;l';en ;Éthiopie;ETB
+EU;l';en ;Union européenne;EUR
+FK;les ;aux ;Îles Malouines;FKP
+FO;les ;aux ;Îles Féroé;DKK
+FJ;le ;au ;Fidji;FJD
+FI;la ;en ;Finlande;EUR
+FR;la ;en ;France;EUR
+GA;le ;au ;Gabon;XAF
+GM;la ;en ;Gambie;GMD
+GE;la ;en ;Géorgie;GEL
+GS;la ;en ;Géorgie du Sud-et-les Îles Sandwich du Sud;GBP
+GH;le ;au ;Ghana;GHS
+GI;;à ;Gibraltar;GIP
+GR;la ;en ;Grèce;EUR
+GD;la ;en ;Grenade;XCD
+GL;le ;au ;Groenland;DKK
+GP;la ;en ;Guadeloupe;EUR
+GU;le ;au ;Guam;USD
+GT;le ;au ;Guatemala;GTQ
+GG;le ;au ;Guernesey;GGP
+GN;la ;en ;Guinée;GNF
+GW;la ;en ;Guinée-Bissau;XOF
+GQ;la ;en ;Guinée équatoriale;XAF
+GY;le ;au ;Guyana;GYD
+GF;la ;en ;Guyane française;EUR
+HT;;à ;Haïti;HTG
+HM;les ;aux ;Îles Heard-et-MacDonald;AUD
+HN;les ;aux ;Honduras;HNL
+HK;;à ;Hong Kong;HKD
+HU;la ;en ;Hongrie;HUF
+IM;l';à l';Île de Man;IMP
+UM;les ;aux ;Îles mineures éloignées des États-Unis;USD
+VG;les ;aux ;Îles Vierges britanniques;USD
+VI;les ;aux ;Îles Vierges des États-Unis;USD
+IO;le ;au ;Territoire britannique de l’océan Indien;GBP
+IN;l';en ;Inde;INR
+ID;l';en ;Indonésie;IDR
+IR;l';en ;Iran;IRR
+IQ;l';en ;Irak;IQD
+IE;l';en ;Irlande;EUR
+IS;l';en ;Islande;ISK
+IL;;à ;Israël;ILS
+IT;l';en ;Italie;EUR
+JM;la ;en ;Jamaïque;JMD
+JP;le ;au ;Japon;JPY
+JE;le ;au ;Jersey;GBP
+JO;la ;en ;Jordanie;JOD
+KZ;le ;au ;Kazakhstan;KZT
+KE;le ;au ;Kenya;KES
+KG;le ;au ;Kirghizstan;KGS
+KI;;à ;Kiribati;AUD
+KW;le ;au ;Koweït;KWD
+LA;le ;au ;Laos;LAK
+LS;le ;au ;Lesotho;LSL
+LV;la ;en ;Lettonie;EUR
+LB;le ;au ;Liban;LBP
+LR;le ;au ;Liberia;LRD
+LY;la ;en ;Libye;LYD
+LI;le ;au ;Liechtenstein;EUR
+LT;la ;en ;Lituanie;EUR
+LU;le ;au ;Luxembourg;EUR
+MO;;à ;Macao;MOP
+MK;la ;en ;Macédoine du Nord;MKD
+MG;;à ;Madagascar;MGA
+MY;la ;en ;Malaisie;MYR
+MW;le ;au ;Malawi;MWK
+MV;les ;aux ;Maldives;MVR
+ML;le ;au ;Mali;XOF
+MT;;à ;Malte;EUR
+MP;les ;aux ;Îles Mariannes du Nord;USD
+MA;le ;au ;Maroc;MAD
+MH;les ;aux ;Îles Marshall;USD
+MQ;la ;en ;Martinique;EUR
+MU;;à ;Maurice;MUR
+MR;la ;en ;Mauritanie;MRO
+YT;la ;en ;Mayotte;EUR
+MX;le ;au ;Mexique;MXN
+FM;la ;en ;Micronésie;USD
+MD;la ;en ;Moldavie;MDL
+MC;;à ;Monaco;EUR
+MN;la ;en ;Mongolie;MNT
+ME;le ;au ;Monténégro;EUR
+MS;le ;au ;Montserrat;XCD
+MZ;le ;au ;Mozambique;MZN
+MM;le ;au ;Myanmar (Birmanie);MMK
+NA;la ;en ;Namibie;NAD
+NR;;à ;Nauru;AUD
+NP;le ;au ;Népal;NPR
+NI;le ;au ;Nicaragua;NIO
+NE;le ;au ;Niger;XOF
+NG;le ;au ;Nigeria;NGN
+NU;la ;en ;Niue;NZD
+NF;l';à l';Île Norfolk;AUD
+NO;la ;en ;Norvège;NOK
+NC;la ;en ;Nouvelle-Calédonie;XPF
+NZ;la ;en ;Nouvelle-Zélande;NZD
+OM;;à ;Oman;OMR
+UG;l';en ;Ouganda;UGX
+UZ;l';en ;Ouzbékistan;UZS
+PK;le ;au ;Pakistan;PKR
+PW;les ;aux ;Palaos;USD
+PS;les ;aux ;Territoires palestiniens;ILS
+PA;le ;au ;Panama;PAB
+PG;la ;en ;Papouasie-Nouvelle-Guinée;PGK
+PY;le ;au ;Paraguay;PYG
+NL;les ;aux ;Pays-Bas;EUR
+XX;le ;au ;Pays inconnu;XXX
+ZZ;la ;en ;région indéterminée;ZZZ
+PE;le ;au ;Pérou;PEN
+PH;les ;aux ;Philippines;PHP
+PN;les ;aux ;Îles Pitcairn;NZD
+PL;la ;en ;Pologne;PLN
+PF;la ;en ;Polynésie française;XPF
+PR;le ;au ;Porto Rico;USD
+PT;le ;au ;Portugal;EUR
+QA;le ;au ;Qatar;QAR
+SY;la ;en ;Syrie;SYP
+CF;la ;en ;République centrafricaine;XAF
+RE;;à ;La Réunion;EUR
+RO;la ;en ;Roumanie;RON
+GB;le ;au ;Royaume-Uni;GBP
+RU;la ;en ;Russie;RUB
+RW;le ;au ;Rwanda;RWF
+EH;le ;au ;Sahara occidental;MAD
+BL;;à ;Saint-Barthélemy;EUR
+KN;;à ;Saint-Christophe-et-Niévès;XCD
+SM;;à ;Saint-Marin;EUR
+MF;;à ;Saint-Martin;EUR
+SX;;à ;Saint-Martin (partie néerlandaise);EUR
+PM;;à ;Saint-Pierre-et-Miquelon;EUR
+VC;;à ;Saint-Vincent-et-les Grenadines;XCD
+SH;;à ;Sainte-Hélène;SHP
+LC;;à ;Sainte-Lucie;XCD
+SB;les ;aux ;Îles Salomon;SBD
+WS;le ;au ;Samoa;WST
+AS;les ;aux ;Samoa américaines;USD
+ST;;à ;Sao Tomé-et-Principe;STD
+SN;le ;au ;Sénégal;XOF
+RS;la ;en ;Serbie;RSD
+SC;les ;aux ;Seychelles;SCR
+SL;le ;au ;Sierra Leone;SLL
+SG;;à ;Singapour;SGD
+SK;la ;en ;Slovaquie;EUR
+SI;la ;en ;Slovénie;EUR
+SO;la ;en ;Somalie;SOS
+SD;le ;au ;Soudan;SDG
+SS;le ;au ;Soudan du Sud;SSP
+LK;le ;au ;Sri Lanka;LKR
+SE;la ;en ;Suède;SEK
+CH;la ;en ;Suisse;CHF
+SR;le ;au ;Suriname;SRD
+SJ;le ;au ;Svalbard et Jan Mayen;NOK
+SZ;l';en ;Eswatini;SZL
+TJ;le ;au ;Tadjikistan;TJS
+TW;;à ;Taïwan;TWD
+TZ;la ;en ;Tanzanie;TZS
+TD;le ;au ;Tchad;XAF
+CZ;la ;en ;Tchéquie;CZK
+TF;les ;aux ;Terres australes françaises;EUR
+TH;la ;en ;Thaïlande;THB
+TL;le ;au ;Timor oriental;USD
+TG;le ;au ;Togo;XOF
+TK;le ;au ;Tokelau;NZD
+TO;le ;au ;Tonga;TOP
+TT;;à ;Trinité-et-Tobago;TTD
+TN;la ;en ;Tunisie;TND
+TM;le ;au ;Turkménistan;TMT
+TC;les ;aux ;Îles Turques-et-Caïques;USD
+TR;la ;en ;Turquie;TRY
+TV;;à ;Tuvalu;AUD
+UA;l';en ;Ukraine;UAH
+UY;l';en ;Uruguay;UYU
+VU;;à ;Vanuatu;VUV
+VA;le ;au ;Vatican;EUR
+VE;le ;au ;Venezuela;VEF
+VN;le ;au ;Viêt Nam;VND
+WF;;à ;Wallis-et-Futuna;XPF
+YE;le ;au ;Yémen;YER
+ZM;la ;en ;Zambie;ZMW
+ZW;le ;au ;Zimbabwe;ZWL
