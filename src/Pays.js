@@ -27,7 +27,6 @@ const create = (code, currency, rule) => {
 		currency,
 		article,
 		preposition,
-		rule,
 	};
 };
 
@@ -559,10 +558,6 @@ const asArray = Object.entries(Pays).map((entry) => entry[1]);
 
 const getByCurrency = (currency) => CENTRAL_BANKS.find((pays) => pays.currency === currency) || asArray.find((pays) => pays.currency === currency);
 const getByCode = (code) => asArray.find((pays) => pays.code === code);
-
-asArray.forEach((pays) => {
-	if(pays.rule === EXCEPTION) console.log(pays.name);
-});
 
 export default {
 	...Pays,
