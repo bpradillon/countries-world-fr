@@ -540,28 +540,16 @@ const Pays = {
   
 };
 
-const CENTRAL_BANKS = [
-	Pays.EUROPE,
-	Pays.ETATS_UNIS,
-	Pays.AUSTRALIE,
-	Pays.NOUVELLE_ZELANDE,
-	Pays.ROYAUME_UNI,
-	Pays.MAROC,
-	Pays.NORVEGE,
-	Pays.DANEMARK,
-	Pays.BELIZE,
-	Pays.ANTILLES_NEERLANDAISES,
-	Pays.ISRAEL,
-];
-
 const asArray = Object.entries(Pays).map((entry) => entry[1]);
 
-const getByCurrency = (currency) => CENTRAL_BANKS.find((pays) => pays.currency === currency) || asArray.find((pays) => pays.currency === currency);
 const getByCode = (code) => asArray.find((pays) => pays.code === code);
+const getByCurrency = (currency) => getByCode(currency.substring(0, 2));
+const getAllByCurrency = (currency) => asArray.filter((pays) => pays.currency === currency);
 
 export default {
 	...Pays,
 	asArray,
-	getByCurrency,
 	getByCode,
+	getByCurrency,
+	getAllByCurrency,
 }
